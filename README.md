@@ -1,7 +1,7 @@
 # Tasa-de-Cambio
 
 Aplicacion creada de acuerdo alo requerimientos presentado en la prueba la cual tenie el siguiente enunciado:
-#Reto #1: Tasa de Cambio
+#Reto 1: Tasa de Cambio
 Desarrolla un servicio que entregue la última tasa de cambio y las tasas de cambio históricas
 para una pareja de divisas particular de su escogencia. Su aplicación debe contar con tres
 capas: 1) interfaz de usuario, 2) la capa de aplicación (controlador), y 3) la capa de datos
